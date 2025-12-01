@@ -1,0 +1,7 @@
+flask
+opencv-python
+imutils
+tensorflow==2.15.0  # or the version you actually use
+numpy
+matplotlib
+scikit-learn
